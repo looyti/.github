@@ -11,15 +11,11 @@ For detailed instructions on how to set up and install the projects, please visi
 
 This guide covers everything you need to get started, from cloning the repository to configuring your development environment.
 
-## 🌐 Website
-
-Visit us at [Looyti](https://looyti.com) to learn more about our services, projects, and how we can help your business grow.
-
 
 ## 📫 Contact Us
 
-We'd love to hear from you!  
-For inquiries, please visit email us at **tech@looyti.com**.
+Visit us at [Looyti](https://looyti.com) to learn more about our services, projects, and how we can help your business grow.  
+We'd love to hear from you! For inquiries, please email us at [tech@looyti.com](mailto:tech@looyti.com).
 
 
 ## 🌟 Follow Us
