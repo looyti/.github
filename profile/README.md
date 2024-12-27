@@ -41,7 +41,7 @@ Here are some of the exciting projects we are working on:
 ## 📫 Contact Us
 
 We'd love to hear from you!  
-For inquiries, please visit our [Contact Page](https://looyti.com/contact) or email us at **contact@looyti.com**.
+For inquiries, please visit our [Contact Page](https://looyti.com/contact) or email us at **info@looyti.com**.
 
 ---
 
