@@ -5,7 +5,7 @@ We are dedicated to developing innovative digital solutions that empower busines
 
 ## 🌐 Website
 
-Visit us at [Looyti](https://looyti.com) to learn more about our services, projects, and how we can help your business grow.
+Visit us at [Looyti](https://looyti.com/) to learn more about our services, projects, and how we can help your business grow.
 
 ---
 
@@ -41,7 +41,7 @@ Here are some of the exciting projects we are working on:
 ## 📫 Contact Us
 
 We'd love to hear from you!  
-For inquiries, please visit our [Contact Page](https://looyti.com/contact) or email us at **info@looyti.com**.
+For inquiries, please visit our [Contact Page](https://looyti.com/contact) or email us at **contact@looyti.com**.
 
 ---
 
@@ -59,9 +59,9 @@ We welcome contributions to our projects! To get started, please read our [Contr
 
 Stay connected with us:
 
-- [LinkedIn](https://www.linkedin.com/company/looytiglobal)
-- [Twitter](https://twitter.com/LooytiGlobal)
-- [Instagram](https://www.instagram.com/looytiglobal)
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/)
+- [Instagram](https://www.instagram.com/)
 
 ---
 
